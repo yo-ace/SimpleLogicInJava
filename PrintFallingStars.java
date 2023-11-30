@@ -2,7 +2,7 @@
  * This implementation takes a number from the user and prints the number of stars for each digit. 
  */
 import java.util.Scanner;
-public class Lab05_Q1 
+public class PrintFallingStars
 {
     public static void main(String[] args) 
     {
